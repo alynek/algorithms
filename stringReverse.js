@@ -18,3 +18,5 @@ function reverse(stringToReverse){
 
     return reverseString
 }
+
+module.exports = reverse;
